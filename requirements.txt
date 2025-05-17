@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+pdf2image
+Pillow
+img2pdf
+matplotlib
+numpy
